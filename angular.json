@@ -79,7 +79,7 @@
               "../node_modules/three/examples/js/loaders/ColladaLoader.js",
               "../node_modules/three/examples/js/controls/TrackballControls.js",
               "src/app/dragon/javascript/ColladaLoader.js",
-              "src/app/dragon/javascript/getThree.js.js",
+              "src/app/dragon/javascript/getThree.js",
               "src/app/dragon/javascript/OrbitControls.js"
             ],
             "assets": [
