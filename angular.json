@@ -77,10 +77,8 @@
             "scripts": [
               "../node_modules/three/examples/js/loaders/STLLoader.js",
               "../node_modules/three/examples/js/loaders/ColladaLoader.js",
-              "../node_modules/three/examples/js/controls/TrackballControls.js",
-              "src/app/dragon/javascript/ColladaLoader.js",
-              "src/app/dragon/javascript/getThree.js",
-              "src/app/dragon/javascript/OrbitControls.js"
+              "../node_modules/three/examples/js/controls/TrackballControls.js"
+
             ],
             "assets": [
               "src/favicon.ico",
