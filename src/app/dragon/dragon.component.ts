@@ -87,7 +87,7 @@ export class DragonComponent implements OnInit {
         this.controls.addEventListener('change', this.render);
     }
 
-    
+
     onMouseDown(event: MouseEvent) {
         event.preventDefault();
 
