@@ -1,8 +1,8 @@
 import { AfterViewInit, Component, ElementRef, Input, ViewChild, HostListener, OnInit } from '@angular/core';
 import * as THREE from 'three';
-import "./javascript/getThree.js";
-import "./javascript/OrbitControls.js";
-import "./javascript/ColladaLoader.js";
+import "../../assets/javascript/getThree.js";
+import "../../assets/javascript/OrbitControls.js";
+import "../../assets/javascript/ColladaLoader.js";
 
 @Component({
     selector: 'app-dragon',
