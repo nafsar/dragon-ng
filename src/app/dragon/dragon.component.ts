@@ -87,8 +87,8 @@ export class DragonComponent implements OnInit {
         this.controls.addEventListener('change', this.render);
     }
 
+    
     onMouseDown(event: MouseEvent) {
-        console.log("onMouseDown");
         event.preventDefault();
 
         var raycaster = new THREE.Raycaster();
