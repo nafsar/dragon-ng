@@ -77,10 +77,8 @@
             "scripts": [
               "../node_modules/three/examples/js/loaders/STLLoader.js",
               "../node_modules/three/examples/js/loaders/ColladaLoader.js",
-              "../node_modules/three/examples/js/controls/TrackballControls.js",
-              "src/assets/javascript/getThree.js",
-              "src/assets/javascript/ColladaLoader.js",
-              "src/assets/javascript/OrbitControls.js"
+              "../node_modules/three/examples/js/controls/TrackballControls.js",            
+              "../node_modules/three/examples/js/controls/OrbitControls.js"
             ],
             "assets": [
               "src/favicon.ico",
