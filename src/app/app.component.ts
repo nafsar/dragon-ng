@@ -6,6 +6,6 @@ import { Component, VERSION } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'ThreeJS WebGL 3D';
+  title = 'ThreeJS WebGL / 3D';
   version = VERSION.full;
 }
