@@ -1,6 +1,6 @@
 import { AfterViewInit, Component, ElementRef, Input, ViewChild, HostListener, OnInit } from '@angular/core';
 import * as THREE from 'three';
-import "./javascript/getThree";
+import "./javascript/getThree.js";
 import "./javascript/OrbitControls.js";
 import "./javascript/ColladaLoader.js";
 
